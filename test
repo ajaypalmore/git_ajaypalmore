@@ -7,6 +7,3 @@ EXPOSE=80
 CMD["apachect1","-D","FOREGROUND"]
 
 
-Test
-
-
