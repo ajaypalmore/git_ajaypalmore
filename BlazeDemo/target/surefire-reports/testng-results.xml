@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.whatfix.qa.testcases.WhatFix_Test" duration-ms="24212" started-at="2018-05-04T13:23:06Z" finished-at="2018-05-04T13:23:31Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="24212" started-at="2018-05-04T13:23:06Z" finished-at="2018-05-04T13:23:31Z">
+      <class name="com.whatfix.qa.testcases.WhatFix_Test">
+        <test-method status="PASS" signature="stepUp()[pri:0, instance:com.whatfix.qa.testcases.WhatFix_Test@6cd8737]" name="stepUp" is-config="true" duration-ms="19432" started-at="2018-05-04T18:53:06Z" finished-at="2018-05-04T18:53:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stepUp -->
+        <test-method status="PASS" signature="verifyWhatFix()[pri:0, instance:com.whatfix.qa.testcases.WhatFix_Test@6cd8737]" name="verifyWhatFix" duration-ms="3362" started-at="2018-05-04T18:53:26Z" finished-at="2018-05-04T18:53:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWhatFix -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.whatfix.qa.testcases.WhatFix_Test@6cd8737]" name="tearDown" is-config="true" duration-ms="1399" started-at="2018-05-04T18:53:29Z" finished-at="2018-05-04T18:53:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.whatfix.qa.testcases.WhatFix_Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.whatfix.qa.testcases.WhatFix_Test -->
+</testng-results>
